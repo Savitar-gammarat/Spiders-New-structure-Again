@@ -7,7 +7,7 @@ class ORM(object):
     password = '991004'
     host = '47.101.196.53'
     port = '3306'
-    database= 'test'
+    database= 'news-aggregation'
 
     # #本机
     # username = 'root'
