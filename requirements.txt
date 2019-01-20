@@ -1,4 +1,4 @@
-requests==2.13.0
+requests==2.21.0
 lxml==4.2.5
 SQLAlchemy==1.2.15
 jieba==0.39
