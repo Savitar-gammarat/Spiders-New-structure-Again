@@ -4,8 +4,8 @@ import datetime
 class ORM(object):
     #服务器
     username = 'hao'
-    password = '991004'
-    host = '47.101.196.53'
+    password = '******'
+    host = '******'
     port = '3306'
     database= 'news-aggregation'
 
